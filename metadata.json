@@ -1,0 +1,7 @@
+{
+  "name": "Fishing Spot Chat Bot",
+  "description": "A specialized chatbot for finding the best fishing spots, powered by Gemini with Google Maps grounding for real-time location accuracy.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
